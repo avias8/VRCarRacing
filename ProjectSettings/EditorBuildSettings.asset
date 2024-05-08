@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameEntryScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 716097e3c020b424abb2f99eca14f80c, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: dc5bef71d715b41498eec6314d59b9e9, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 7fe9a10bd3fce6343ab3aac599195257, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: acee9e891b9d69f4fbffab9cec0e6b75, type: 2}
